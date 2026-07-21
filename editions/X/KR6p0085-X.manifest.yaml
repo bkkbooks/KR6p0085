@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0085_000-X.yaml, hash: 'sha256:ecfa80d6a6b4d25a32b323ad35310e53690175d1ba4b25a4814de92364af1362'}
+  - {seq: 0, filename: KR6p0085_000-X.yaml, hash: 'sha256:207d42c47b446d68a0caaffa62057c62d0264cc8c64e235417b7b323d4be761d'}
   - {seq: 1, filename: KR6p0085_001-X.yaml, hash: 'sha256:6880b70a01a10169198ddfe038ce157dbc548edd9244864db14903dab80f77ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0085_000-X.markers.yaml, hash: 'sha256:592c84727c3cd92a9895f74994c385e10cf957b3ca7542b838ef31c9b699a254'}
+  - {seq: 0, role: markers, filename: assets/KR6p0085_000-X.markers.yaml, hash: 'sha256:fa75162790ebf2f1c093d21b6c49e9b20e7ef19fe397a9f90063165dd9a6f177'}
   - {seq: 1, role: markers, filename: assets/KR6p0085_001-X.markers.yaml, hash: 'sha256:2c1f6354946b20de485c08d3c4d2842b04ac35d52429921f3ac8780e8a5a6727'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0085_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1468-A 西歸行儀序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0085_X_000-mulu-2
     span:
-    - front
+    - body
     - 386
     - 386
   label: 西歸行儀目次
@@ -185,4 +185,4 @@ table_of_contents:
   label: No. 1468-B 西歸行儀䟦
   type: mulu
   level: 1
-hash: sha256:6bec39337f4e5cd72e260ab429f645fe4d85d6c28c63860f3c6019c94263f2c8
+hash: sha256:e1168f20f345f80177a5ee668ea327f02353fc4f511bc0318b28a918a5ede960
